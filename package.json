@@ -1,0 +1,12 @@
+{
+  "name": "school-app",
+  "version": "1.0.0",
+  "description": "School Management System",
+  "main": "server.py",
+  "scripts": {
+    "start": "python server.py"
+  },
+  "engines": {
+    "python": "3.9"
+  }
+} 
